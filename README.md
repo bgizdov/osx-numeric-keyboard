@@ -5,9 +5,9 @@
 
 ### Usage
 
-Hold Option/Alt  key + keys from table to simulate numpad
+Hold **Option/Alt**  key + **keys** from table to simulate numpad
 
-| Keys |  |  |     |  ➡️  |   |   |  |   |  |  |
+| Keys |  |  |    | |  ➡️  |    |  |   |  |  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |  | |  8* |9(  |     |  ➡️  |   | |/  | *  |   |
 |  |  u | i  | o  | p  |  ➡️  | |7  | 8  | 9  | -  |

@@ -9,10 +9,10 @@ Hold **Option/Alt**  key + **keys** from table to simulate numpad
 
 | Keys |  |  |    | |  ➡️  |    |  |   |  |  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|  | |  8* |9(  |     |  ➡️  |   | |/  | *  |   |
-|  |  u | i  | o  | p  |  ➡️  | |7  | 8  | 9  | -  |
-|  | j | k | l  |  ; | ➡️    | |4  | 5  | 6  | +  |
-|  n | m  |,   |.|/   | ➡️  | 0  | 1  |  2 | 3  | + |
+|  | |  8 * |9 (  |     |  ➡️  |   | |/  | *  |   |
+|  |  U | I  | O | P  |  ➡️  | |7  | 8  | 9  | -  |
+|  | J | K | L  |  ; : | ➡️    | |4  | 5  | 6  | +  |
+|  N | M  | , < | . >| / ? | ➡️  | 0  | 1  |  2 | 3  | + |
 
 ### Instalation
 1. Download [us_with_numpad_keyboard_layout.bundle.zip](https://github.com/bgizdov/osx-numeric-keyboard/raw/main/us_with_numpad_keyboard_layout.bundle.zip "us_with_numpad_keyboard_layout.bundle.zip")

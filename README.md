@@ -1,5 +1,5 @@
 # osx-numeric-keyboard 
-### MacOS X U.S. keyboard layout with numpad for compact/mini keyboards without physical numpad
+### MacOS X U.S. keyboard layout with Numpad for compact/mini keyboards without physical Numpad
 
 [![](https://github.com/bgizdov/osx-numeric-keyboard/blob/main/preview.png?raw=true)](https://github.com/bgizdov/osx-numeric-keyboard/blob/main/preview.png?raw=true)
 

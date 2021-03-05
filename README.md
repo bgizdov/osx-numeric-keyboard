@@ -20,9 +20,11 @@ Hold Option/Alt  key + keys from table to simulate numpad
 2. Double click to extract zip
 
 3. Doble click to install the keyboard layout
+
 [![](https://github.com/bgizdov/osx-numeric-keyboard/blob/main/install1.png?raw=true)](https://github.com/bgizdov/osx-numeric-keyboard/blob/main/install1.png?raw=true)
 
 4. Select current user in Keyboard Installer
+
 [![](https://github.com/bgizdov/osx-numeric-keyboard/blob/main/install2.png?raw=true)](https://github.com/bgizdov/osx-numeric-keyboard/blob/main/install2.png?raw=true)
 
 5. Open Settings -> Keyboard -> Input Sources -> Click + button -> Select English -> U.S. + Numpad
